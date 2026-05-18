@@ -133,7 +133,8 @@ void digi_inp()
 
 ## OUTPUT
 
-![4ec8a739-4e1b-4edb-b90f-4676b9eb7db7](https://github.com/user-attachments/assets/e4f9f3e9-ba4c-4e31-b6f5-fc668a0f3608)
+<img width="757" height="687" alt="image" src="https://github.com/user-attachments/assets/f171d4f4-1469-4e9f-8177-dc19863f35d5" />
+
 ![ffc178d1-369f-4e0f-9fce-d91dff57b916](https://github.com/user-attachments/assets/3eadd0e4-6f18-4269-b2e9-8fde4195bf8d)
 
 ## Result
